@@ -24,3 +24,5 @@ This automated system empowers Indian farmers to increase crop yields, reduce co
 - **Promote sustainable and environmentally friendly agriculture**
 
 This project offers a transformative approach to agriculture in India, helping to meet food security needs, reduce poverty, and empower farmers to adopt sustainable practices for a secure and prosperous future.
+
+Youtube Link - https://youtu.be/NWPxQc4Cius
